@@ -1,3 +1,5 @@
+
+//OK. O.Aktunc
 //Jorge A. Padilla BMI computing java program
 import javax.swing.JOptionPane;
 
