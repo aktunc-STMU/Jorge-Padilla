@@ -1,3 +1,5 @@
+//OK. O.Aktunc
+
 //Jorge A. Padilla MPG calculation java program
 import java.util.Scanner;
 
